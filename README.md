@@ -1,0 +1,2 @@
+# AI-RationMitra-Interactive-ration-assistant-web-application-
+AI-RationMitra is a voice-enabled AI assistant for public ration systems. Built with Flask, Google Gemini API, Speech Recognition, and gTTS, it handles ration queries, updates stock, and integrates real-time government scheme data. Features include admin/user dashboards, scheme filtering, map view, and export options for efficient distribution.
